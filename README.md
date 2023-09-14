@@ -43,4 +43,4 @@ Se você deseja contribuir com melhorias ou correções para este projeto, sinta
 
 ## Autor
 
-Este projeto foi desenvolvido como parte de um curso de programação Java disponível no Youtube por Elias Sousa.
+Este projeto foi desenvolvido por Elias Sousa, como parte de um curso de programação Java disponível no Youtube.
